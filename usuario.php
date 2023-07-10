@@ -8,6 +8,7 @@
                             or die("Error al insertar datos".mysqli_error($conexion));
     echo "Usuario registrado";
 //esto es un comentario 
+//esto es un segundo comentario
 ?>
 <br>
 <a href="Registro.php">Registrarse</a>
