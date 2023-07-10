@@ -7,7 +7,7 @@
                           VALUES('$usuario','$password1')") 
                             or die("Error al insertar datos".mysqli_error($conexion));
     echo "Usuario registrado";
-
+//esto es un comentario 
 ?>
 <br>
 <a href="Registro.php">Registrarse</a>
