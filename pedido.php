@@ -7,6 +7,7 @@
     <body>
         <h1>Pedido</h1>
         <?php
+        //ejercicio prueba 
         $nombre = $_GET ['nombretxt'];
         $pizzaqueso = $_GET ['queso'];
         $pizzapeperoni = $_GET ['peperoni'];
